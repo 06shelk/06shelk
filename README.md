@@ -15,7 +15,7 @@
   * 주식 초보자들을 위한 주식 학습 웹서비스 <br>
 
 <a href="https://github.com/06shelk/OneSongADay" target='_blank'>하루한곡 (2023.09 ~ 2023.11)</a>
-  * 하루에 한 곡 노래 추천 웹사이트 <br>
+  * 하루에 한 곡 노래 추천 웹서비스 <br>
 
 <a href="https://github.com/06shelk/fashion-generation_Project" target='_blank'>패션 세대 (2023.09 ~ 2023.11)</a>
   * 패션 유행 정보 제공 웹서비스 <br>
