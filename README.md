@@ -6,7 +6,7 @@
 ---
 
 ### 💻 프로젝트
-<a href="https://github.com/06shelk/pleaseSay" target='_blank' style="color:#000000">말로 하세요 (2024.02 - 2024.06)</a>
+<a href="https://github.com/06shelk/pleaseSay" target='_blank'>말로 하세요 (2024.02 - 2024.06)</a>
   * 음성을 활용한 게임으로 구성된 웹서비스 <br>
 
 <a href="https://github.com/06shelk/ITShow-project" target='_blank'>GEMMI (2024.02 - 2024.06)</a>
@@ -18,7 +18,7 @@
 <a href="https://github.com/06shelk/fashion-generation_Project" target='_blank'>패션 세대 (2023.09 ~ 2023.11)</a>
   * 패션 유행 정보 제공 웹서비스 <br>
 
-<a href="github.com/06shelk/2023-WSMProject-Playingwithwords" target='_blank'>단어놀이팡! (2023.04 ~ 2023.06)</a>
+<a href="https://github.com/06shelk/2023-WSMProject-Playingwithwords" target='_blank'>단어놀이팡! (2023.04 ~ 2023.06)</a>
   * 아동을 위한 단어 암기 웹서비스 <br>
 <br>
 
