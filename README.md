@@ -3,6 +3,8 @@
 안녕하세요! ,<br>
 호기심으로 도전하는 개발자, 이설화입니다.
 
+<a href="https://seolstudy.tistory.com">🅱️my blog</a>
+
 ---
 
 ### 💻 프로젝트
