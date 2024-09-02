@@ -24,17 +24,23 @@
   * 아동을 위한 단어 암기 웹서비스 <br>
 <br>
 
-todolist 
+<a href="https://github.com/06shelk/movie-web" target='_blank'>movie-web</a>
+* react 영화정보 웹사이트
+  
+<a href="https://github.com/06shelk/todolist" target='_blank'>todolist</a>
 * react 자습 프로젝트
-  
-WSM2311
-* WSM 수업 시간에 진행했던 코드
-  
-programmers
+
+<a href="https://github.com/06shelk/react-portfolio" target='_blank'>react-portfolio</a>
+* react 포토폴리오 웹사이트
+
+<a href="https://github.com/06shelk/programmers" target='_blank'>programmers</a>
 * 코딩 테스트 코드
 
-introduce
+<a href="https://github.com/06shelk/introduce" target='_blank'>introduce</a>
 * 자기소개 웹사이트
+
+<a href="https://github.com/06shelk/WSM2311" target='_blank'>WSM2311</a>
+* WSM 수업 시간에 진행했던 코드
   
 ---
 
