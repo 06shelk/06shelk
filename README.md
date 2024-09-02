@@ -33,6 +33,9 @@
 <a href="https://github.com/06shelk/react-portfolio" target='_blank'>react-portfolio</a>
 * react 포토폴리오 웹사이트
 
+<a href="https://github.com/06shelk/langserve-ollama" target='_blank'>langserve-ollama</a>
+* ollama를 활용한 LLM 모델 만들기
+  
 <a href="https://github.com/06shelk/programmers" target='_blank'>programmers</a>
 * 코딩 테스트 코드
 
