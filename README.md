@@ -24,7 +24,7 @@
   * 아동을 위한 단어 암기 웹서비스 <br>
 <br>
 
-<a href="https://github.com/06shelk/movie-web-react" target='_blank'>movie-web-react</a>
+<a href="https://github.com/06shelk/movie-web-react" target='_blank'>movie-web-react</a> </br>
 <a href="https://github.com/06shelk/movie-web-vue" target='_blank'>movie-web-vue</a>
 * react, vue 영화정보 웹사이트
   
